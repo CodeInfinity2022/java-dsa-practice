@@ -13,7 +13,6 @@ package sorting.basics;
  **/
 public class BubbleSort {
     public static void main (String[] args) {
-        // int[] arr = {6, 5, 2, 8, 9, 4};
         int[] arr = {8, 6, 3, 4, 2, 5};
 
         System.out.print("Before Sorting: ");
